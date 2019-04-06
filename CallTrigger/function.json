@@ -19,10 +19,10 @@
     {
       "type": "twilioSms",
       "name": "message",
-      "accountSidSetting": TWILIO_SID,
-      "authTokenSetting": TWILIO_TOKEN,
-      "from": SENDER_NUMBER,
-      "to": RECIPIENT_NUMBER,
+      "accountSidSetting": ACab62879858e561e0bee754b4beb4363f,
+      "authTokenSetting": 09eddc4f6d8fc25860589d648f1f5fa8,
+      "from": +61488855073,
+      "to": +61407826956,
       "direction": "out"
     }
   ]
